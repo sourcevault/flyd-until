@@ -25,9 +25,9 @@ repository:
   url:"https://github.com/sourcevault/flyd-until"
 
 
-description : ""
+description : "until function for flyd"
 
-version : "0.0.1"
+version : "0.0.2"
 
 dependencies:
 

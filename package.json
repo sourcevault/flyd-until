@@ -16,8 +16,8 @@
     "type": "git",
     "url": "https://github.com/sourcevault/flyd-until"
   },
-  "description": "",
-  "version": "0.0.1",
+  "description": "until function for flyd",
+  "version": "0.0.2",
   "dependencies": {
     "chalk": "2.4.1",
     "ramda": "0.25.0",
