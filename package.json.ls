@@ -27,13 +27,14 @@ repository:
 
 description : "until function for flyd"
 
-version : "0.0.2"
+version : "0.0.3"
 
 dependencies:
 
   "chalk":"2.4.1"
   "ramda":"0.25.0"
   "flyd":"0.2.8"
+  "@sourcevault/initial.utils":"0.0.9"
 
 engines:
 
